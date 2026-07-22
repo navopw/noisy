@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>de.navo</groupId>
 	<artifactId>Noisy</artifactId>
-	<name>Noisy</name>
+	<name>noisy</name>
 	<version>1.0</version>
 	<packaging>jar</packaging>
 	<properties>
